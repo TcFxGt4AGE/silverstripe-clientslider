@@ -1,4 +1,4 @@
-# Silverstripe-Services
+# Silverstripe-ClientSlider
 A Client Slider module for silverstripe that implements the backend on any pagetype via an extension but does not dictate the frontend!
 Best used with a owl-carousel plugin
 ## How to use
